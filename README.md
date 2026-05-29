@@ -40,10 +40,8 @@
 ## Repository Structure
 
 ```text
-.trae/
-  skills/
-    refactor-plan-generator/
-      SKILL.md
+refactor-plan-generator/
+  SKILL.md
 README.md
 ```
 
